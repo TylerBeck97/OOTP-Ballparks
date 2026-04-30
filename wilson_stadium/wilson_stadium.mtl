@@ -139,7 +139,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd Textures/LEDSpot1.jpg
+map_Kd ../Default Stadium/Texture/LEDSpot1.jpg
 
 newmtl LED_Bulb
 Ns 250.000000
@@ -229,7 +229,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd Textures/ootp_scoreboard_0.png
+map_Kd ../Default Stadium/Texture/ootp_scoreboard_0.png
 
 newmtl Seating_1
 Ns 250.000000
