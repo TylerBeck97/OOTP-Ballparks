@@ -71,6 +71,16 @@ d 1.000000
 illum 2
 map_Kd Textures/Quartz_Light_Grey.jpg
 
+newmtl Cinder_Blocks
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures/Cinder Blocks.png
+
 newmtl Clay.001
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -80,6 +90,16 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd Textures/Clay.png
+
+newmtl Empty
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd diagram.png
+map_d diagram.png
 
 newmtl Grass.001
 Ns 250.000000
@@ -171,6 +191,16 @@ d 1.000000
 illum 2
 map_Kd Textures/bitumen_diff_4k.jpg
 
+newmtl Roof_White
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures/bitumen_white.jpg
+
 newmtl Seating1
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -230,3 +260,23 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd Textures/stairs.png
+
+newmtl Wood_Face
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures/Wood Face.png
+
+newmtl Wood_Railing
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures/Copilot_20260429_084554.png
