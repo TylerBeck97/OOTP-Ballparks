@@ -1,6 +1,16 @@
 # Blender 5.1.1 MTL File: 'bank_of_the_james_stadium.blend'
 # www.blender.org
 
+newmtl Aluminum
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/Aluminum.jpg
+
 newmtl Beige_Window
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -91,15 +101,45 @@ d 1.000000
 illum 2
 map_Kd Textures/Clay.png
 
-newmtl Empty
+newmtl Foul_Fence.001
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
+d 1.000000
 illum 2
-map_Kd diagram.png
-map_d diagram.png
+map_Kd ../Default Stadium/Texture/Fencing_Construction1.png
+
+newmtl Foul_Fence.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/Fencing_Construction1.png
+
+newmtl Foul_Pole.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/foul_pole_yellow.jpg
+
+newmtl Foul_Pole.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/foul_pole_yellow.jpg
 
 newmtl Grass.001
 Ns 250.000000
@@ -130,6 +170,26 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd Textures/Groundcover_Sand_Smooth1.jpg
+
+newmtl Ground_Image
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd diagram.png
+map_d diagram.png
+
+newmtl LED_Bulb
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/Led Bulb.png
 
 newmtl Light_Gray_Concrete
 Ns 250.000000
@@ -170,6 +230,16 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd Textures/Painted Wall Dark Green.png
+
+newmtl Panoramic
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures/Panoramic.png
 
 newmtl Pattern_Brick
 Ns 250.000000
