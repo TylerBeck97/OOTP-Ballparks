@@ -1,6 +1,16 @@
 # Blender 5.1.1 MTL File: 'segra_stadium.blend'
 # www.blender.org
 
+newmtl Aevex
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Texture/Aevex.png
+map_d Texture/Aevex.png
+
 newmtl Aluminum
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -10,6 +20,106 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd ../Default Stadium/Texture/Aluminum.jpg
+
+newmtl Aluminum.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/Aluminum.jpg
+
+newmtl Aluminum.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/Aluminum.jpg
+
+newmtl Aluminum.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/Aluminum.jpg
+
+newmtl Black_Brick_Window
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Black Brick Window.png
+
+newmtl Black_Brick_Window.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Black Brick Window.png
+
+newmtl Black_Brick_Window.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Black Brick Window.png
+
+newmtl Blue_Ridge_Power
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Texture/Blue Ridge Power.png
+map_d Texture/Blue Ridge Power.png
+
+newmtl Brick
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Brick.png
+
+newmtl Brick.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Brick.png
+
+newmtl Brick.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Brick.png
 
 newmtl Brick_Wall
 Ns 250.000000
@@ -31,6 +141,96 @@ d 1.000000
 illum 2
 map_Kd Texture/Brick Wall Window.png
 
+newmtl Brick_Window
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Brick Window.png
+
+newmtl Brick_Window.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Brick Window.png
+
+newmtl Brick_Window.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Brick Window.png
+
+newmtl Bullpen_Grass
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Bullpen_Grass.png
+
+newmtl Bullpen_Grass.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Bullpen_Grass.png
+
+newmtl Bullpen_Grass.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Bullpen_Grass.png
+
+newmtl Chair
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/chair.png
+
+newmtl Chair.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/chair.png
+
+newmtl Chair.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/chair.png
+
 newmtl Chalk
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -41,6 +241,66 @@ d 1.000000
 illum 2
 map_Kd ../Default Stadium/Texture/Quartz_Light_Grey.jpg
 
+newmtl Chalk_White
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/Quartz_Light_Grey.jpg
+
+newmtl Chalk_White.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/Quartz_Light_Grey.jpg
+
+newmtl Chalk_White.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/Quartz_Light_Grey.jpg
+
+newmtl Clay
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Clay_1.png
+
+newmtl Clay.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Clay_1.png
+
+newmtl Clay.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Clay_1.png
+
 newmtl Concrete
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -50,6 +310,36 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd Texture/Concrete.png
+
+newmtl Concrete.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Concrete.png
+
+newmtl Concrete.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Concrete.png
+
+newmtl Concrete.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Concrete.png
 
 newmtl Concrete_Stairs
 Ns 250.000000
@@ -101,7 +391,97 @@ d 1.000000
 illum 2
 map_Kd Texture/Fence.png
 
+newmtl Fence.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Fence.png
+
+newmtl Fence.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Fence.png
+
+newmtl Fence.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Fence.png
+
+newmtl Foul_Fence
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/Fencing_Construction1.png
+
+newmtl Foul_Fence.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/Fencing_Construction1.png
+
+newmtl Foul_Fence.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/Fencing_Construction1.png
+
 newmtl Foul_Pole
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/foul_pole_yellow.jpg
+
+newmtl Foul_Pole.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/foul_pole_yellow.jpg
+
+newmtl Foul_Pole.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/foul_pole_yellow.jpg
+
+newmtl Foul_Pole.003
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
@@ -131,6 +511,36 @@ d 1.000000
 illum 2
 map_Kd Texture/Grass No Pattern.png
 
+newmtl Grass.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Grass.png
+
+newmtl Grass.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Grass.png
+
+newmtl Grass.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Grass.png
+
 newmtl Gray_Slat
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -150,6 +560,96 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd Texture/Clay_2.png
+
+newmtl LED
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/LEDSpot1.jpg
+
+newmtl LED.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/LEDSpot1.jpg
+
+newmtl LED.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/LEDSpot1.jpg
+
+newmtl LED_Bulb
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/Led Bulb.png
+
+newmtl LED_Bulb.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/Led Bulb.png
+
+newmtl LED_Bulb.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/Led Bulb.png
+
+newmtl Mesh_Wall
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Mesh.png
+
+newmtl Mesh_Wall.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Mesh.png
+
+newmtl Mesh_Wall.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Mesh.png
 
 newmtl Outfield_Mesh
 Ns 250.000000
@@ -171,6 +671,66 @@ d 1.000000
 illum 2
 map_Kd Texture/Outfield Wall.png
 
+newmtl Outfield_Wall.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Outfield_Wall.png
+
+newmtl Outfield_Wall.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Outfield_Wall.png
+
+newmtl Outfield_Wall.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Outfield_Wall.png
+
+newmtl Painted_Wall
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Painted Wall.png
+
+newmtl Painted_Wall.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Painted Wall.png
+
+newmtl Painted_Wall.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Painted Wall.png
+
 newmtl Painted_Wall_Gray
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -180,6 +740,96 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd Texture/Painted Wall Gray.png
+
+newmtl Painted_Wall_Gray.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Painted Wall Gray.png
+
+newmtl Painted_Wall_Gray.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Painted Wall Gray.png
+
+newmtl Painted_Wall_Gray.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Painted Wall Gray.png
+
+newmtl Painted_Wall_White
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Painted Wall White.png
+
+newmtl Painted_Wall_White.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Painted Wall White.png
+
+newmtl Painted_Wall_White.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/Painted Wall White.png
+
+newmtl Panoramic
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/skyline_day.png
+
+newmtl Panoramic.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/skyline_day.png
+
+newmtl Panoramic.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/skyline_day.png
 
 newmtl PlayGround
 Ns 250.000000
@@ -201,6 +851,16 @@ d 1.000000
 illum 2
 map_Kd Texture/Press Box.png
 
+newmtl Red
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texture/red.png
+
 newmtl Roof
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -210,6 +870,66 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd Texture/bitumen_white.jpg
+
+newmtl Roof.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/bitumen_diff_4k.jpg
+
+newmtl Roof.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/bitumen_diff_4k.jpg
+
+newmtl Roof.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/bitumen_diff_4k.jpg
+
+newmtl ScoreBoard
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/ootp_scoreboard_0.png
+
+newmtl ScoreBoard.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/ootp_scoreboard_0.png
+
+newmtl ScoreBoard.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/ootp_scoreboard_0.png
 
 newmtl Seating_1
 Ns 250.000000
@@ -221,6 +941,36 @@ d 1.000000
 illum 2
 map_Kd Texture/seating_popularity1_grey.jpg
 
+newmtl Seating_1.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/seating_popularity1_blue.jpg
+
+newmtl Seating_1.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/seating_popularity1_blue.jpg
+
+newmtl Seating_1.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/seating_popularity1_blue.jpg
+
 newmtl Seating_2
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -230,6 +980,36 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd Texture/seating_popularity2_grey.jpg
+
+newmtl Seating_2.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/seating_popularity2_blue.jpg
+
+newmtl Seating_2.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/seating_popularity2_blue.jpg
+
+newmtl Seating_2.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/seating_popularity2_blue.jpg
 
 newmtl Seating_3
 Ns 250.000000
@@ -241,6 +1021,36 @@ d 1.000000
 illum 2
 map_Kd Texture/seating_popularity3_grey.jpg
 
+newmtl Seating_3.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/seating_popularity3_blue.jpg
+
+newmtl Seating_3.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/seating_popularity3_blue.jpg
+
+newmtl Seating_3.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/seating_popularity3_blue.jpg
+
 newmtl Seating_4
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -250,6 +1060,106 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd Texture/seating_popularity4_grey.jpg
+
+newmtl Seating_4.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/seating_popularity4_blue.jpg
+
+newmtl Seating_4.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/seating_popularity4_blue.jpg
+
+newmtl Seating_4.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/seating_popularity4_blue.jpg
+
+newmtl Stairs
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/seating_attendance_floor_decoded.png
+
+newmtl Stairs.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/seating_attendance_floor_decoded.png
+
+newmtl Stairs.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/seating_attendance_floor_decoded.png
+
+newmtl Table
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/table.png
+
+newmtl Table.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/table.png
+
+newmtl Table.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/table.png
+
+newmtl Tunnel
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texture/tunnel.png
 
 newmtl Turf
 Ns 250.000000
@@ -261,6 +1171,16 @@ d 1.000000
 illum 2
 map_Kd Texture/Turf.png
 
+newmtl Walshing
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Texture/Walshing.png
+map_d Texture/Walshing.png
+
 newmtl Warning_Track
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -271,6 +1191,36 @@ d 1.000000
 illum 2
 map_Kd Texture/Clay_1.png
 
+newmtl White_Brick_Window
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/White Brick Window.png
+
+newmtl White_Brick_Window.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/White Brick Window.png
+
+newmtl White_Brick_Window.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/White Brick Window.png
+
 newmtl White_Wall
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -280,3 +1230,53 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd Texture/White Wall.png
+
+newmtl White_Window
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/White Window.png
+
+newmtl White_Window.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/White Window.png
+
+newmtl White_Window.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../wilson_stadium/Textures/White Window.png
+
+newmtl Windows
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texture/Windows.png
+
+newmtl scoreboard_0
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/ootp_scoreboard_0.png
