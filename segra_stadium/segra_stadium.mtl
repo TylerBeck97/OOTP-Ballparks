@@ -1,6 +1,36 @@
 # Blender 5.1.1 MTL File: 'segra_stadium.blend'
 # www.blender.org
 
+newmtl Aluminum
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/Texture/Aluminum.jpg
+
+newmtl Brick_Wall
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texture/Brick Wall.png
+
+newmtl Brick_Wall_Window
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texture/Brick Wall Window.png
+
 newmtl Chalk
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -41,6 +71,26 @@ d 1.000000
 illum 2
 map_Kd Texture/Painted Wall.png
 
+newmtl Dark_Green
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texture/Dark Metallic Green.png
+
+newmtl Fake_Clay
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texture/Fake Clay.png
+
 newmtl Fence
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -61,6 +111,16 @@ d 1.000000
 illum 2
 map_Kd ../Default Stadium/Texture/foul_pole_yellow.jpg
 
+newmtl Glass_Wall
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texture/Glass Wall.png
+
 newmtl Grass
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -70,6 +130,16 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd Texture/Grass No Pattern.png
+
+newmtl Gray_Slat
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texture/Gray Slat Wall.png
 
 newmtl Infield_Clay
 Ns 250.000000
@@ -110,6 +180,26 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd Texture/Painted Wall Gray.png
+
+newmtl PlayGround
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texture/Playground.png
+
+newmtl Press_Box
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texture/Press Box.png
 
 newmtl Roof
 Ns 250.000000
@@ -161,6 +251,16 @@ d 1.000000
 illum 2
 map_Kd Texture/seating_popularity4_grey.jpg
 
+newmtl Turf
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texture/Turf.png
+
 newmtl Warning_Track
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -170,3 +270,13 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd Texture/Clay_1.png
+
+newmtl White_Wall
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Texture/White Wall.png
