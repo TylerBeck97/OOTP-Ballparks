@@ -1,7 +1,7 @@
 # Blender 5.1.2 MTL File: 'lp_frans_stadium.blend'
 # www.blender.org
 
-newmtl Blue_Seating_1
+newmtl Brick
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
@@ -9,9 +9,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd textures/seating_popularity1_blue.jpg
+map_Kd textures/Brick.png
 
-newmtl Blue_Seating_2
+newmtl Carousel
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
@@ -19,9 +19,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd textures/seating_popularity2_blue.jpg
+map_Kd textures/Carousel.png
 
-newmtl Blue_Seating_3
+newmtl Carousel_Pillar
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
@@ -29,9 +29,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd textures/seating_popularity3_blue.jpg
+map_Kd textures/Carousel Pillar.png
 
-newmtl Blue_Seating_4
+newmtl Chain_Link_Fence
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
@@ -39,7 +39,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd textures/seating_popularity4_blue.jpg
+map_Kd textures/chain link.png
 
 newmtl Clay
 Ns 250.000000
@@ -50,6 +50,36 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd textures/Clay_2.png
+
+newmtl Concrete
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Concrete.png
+
+newmtl Dark_Green_Paint
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Painted Wall Dark Green.png
+
+newmtl Fence
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Fence.png
 
 newmtl Field
 Ns 250.000000
@@ -69,7 +99,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd ../Default Stadium/Texture/Fencing_Construction1.png
+map_Kd ../Default Stadium/textures/Fencing_Construction1.png
 
 newmtl Foul_Pole
 Ns 250.000000
@@ -79,7 +109,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd ../Default Stadium/Texture/foul_pole_yellow.jpg
+map_Kd ../Default Stadium/textures/foul_pole_yellow.jpg
 
 newmtl Grass
 Ns 250.000000
@@ -89,9 +119,159 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd textures/Grass.png
+map_Kd textures/Grass No Pattern.png
+
+newmtl Green_Seating_1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/seating_popularity1_green.jpg
+
+newmtl Green_Seating_2
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/seating_popularity2_green.jpg
+
+newmtl Green_Seating_3
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/seating_popularity3_green.jpg
+
+newmtl Green_Seating_4
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/seating_popularity4_green.jpg
+
+newmtl Marble
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Marble.png
+
+newmtl Mesh
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Mesh.png
+
+newmtl Metal_Roof
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Metal Roof.png
+
+newmtl Mixed_Brick
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Mixed Brick.png
+
+newmtl Outfield_Wall
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Outfield Wall.png
 
 newmtl PlaceHolder
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.756994 0.000339 0.800007
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Quartz
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Default Stadium/textures/Quartz_Light_Grey.jpg
+
+newmtl Red_Canvas
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Red Canvas.png
+
+newmtl Roof
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/Roof.png
+
+newmtl Stairs
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/stairs.png
+
+newmtl White_Canvas
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/White Canvas.png
+
+newmtl White_Paint
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
@@ -101,7 +281,7 @@ Ni 1.500000
 d 1.000000
 illum 2
 
-newmtl Red_Seating_1
+newmtl White_Roof
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
@@ -109,34 +289,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd textures/seating_popularity1_red.jpg
-
-newmtl Red_Seating_2
-Ns 250.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd textures/seating_popularity2_red.jpg
-
-newmtl Red_Seating_3
-Ns 250.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd textures/seating_popularity3_red.jpg
-
-newmtl Red_Seating_4
-Ns 250.000000
-Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.500000
-d 1.000000
-illum 2
-map_Kd textures/seating_popularity4_red.jpg
+map_Kd textures/White Roof.png
